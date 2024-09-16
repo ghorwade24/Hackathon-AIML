@@ -55,7 +55,7 @@ nlp = spacy.load('en_core_web_sm')
 
 # Initialize Matcher
 matcher = Matcher(nlp.vocab)
-# Define patterns to extract aspects (example patterns)
+
 
 
 
